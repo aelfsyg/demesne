@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>net.clojars.ae</groupId>
+  <groupId>com.aelfsyg</groupId>
   <artifactId>demesne</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
-  <name>ae/demesne</name>
-  <description>FIXME: my new application.</description>
-  <url>https://github.com/ae/demesne</url>
+  <version>1.0.0</version>
+  <name>aelfsyg/demesne</name>
+  <description>Demesne is a simple example of CQRS, event-sourcing, and an event store in Clojure.</description>
+  <url>https://github.com/aelfsyg/demesne</url>
   <licenses>
     <license>
       <name>Eclipse Public License</name>
@@ -15,14 +15,14 @@
   </licenses>
   <developers>
     <developer>
-      <name>AlmostEducated</name>
+      <name>Ælfsyg</name>
     </developer>
   </developers>
   <scm>
-    <url>https://github.com/ae/demesne</url>
-    <connection>scm:git:git://github.com/ae/demesne.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/ae/demesne.git</developerConnection>
-    <tag>v0.1.0-SNAPSHOT</tag>
+    <url>https://github.com/aelfsyg/demesne</url>
+    <connection>scm:git:git://github.com/aelfsyg/demesne.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/aelfsyg/demesne.git</developerConnection>
+    <tag>v1.0.0</tag>
   </scm>
   <dependencies>
     <dependency>
